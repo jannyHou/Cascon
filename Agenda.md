@@ -27,8 +27,10 @@ Tutorial link: https://github.com/gunjpan/CoffeeShopReviewApp
 
   - Publish created REST APIs to Bluemix
 
-Tutorial link: 
+Tutorial link: https://docs.google.com/document/d/1OUCyLkpP_0elbzi_cH-X7UtI6zqK13a9LgjyKADbuPk/edit
 
 ### Policy Example(by Biniam)
+
+  - Apply microgateway policies to REST APIs
 
 Tutorial link: 
