@@ -7,12 +7,6 @@ Today we will give you an overview of our products(APIC and LoopBack), talk abou
 
 ## Tutorials
 
-### Microservices(by Behnam)
-
-  - Redesign and manage APIs
-
-Tutorial link: http://www.imotif.net/index.php/2016/10/06/microservice/ 
-
 ### API Connect and Loopback(by Gunjan & Sakib)
 
   - Introduction of APIConnect and Loopback
@@ -27,10 +21,35 @@ Tutorial link: https://github.com/gunjpan/CoffeeShopReviewApp
 
   - Publish created REST APIs to Bluemix
 
-Tutorial link: https://docs.google.com/document/d/1OUCyLkpP_0elbzi_cH-X7UtI6zqK13a9LgjyKADbuPk/edit
+Tutorial link: https://goo.gl/fvKpP4
 
 ### Policy Example(by Biniam)
 
-  - Apply microgateway policies to REST APIs
+  - Apply datapower policies to REST APIs
 
-Tutorial link: 
+### Microservices(by Behnam)
+
+  - Redesign and manage APIs
+
+Tutorial link: http://www.imotif.net/index.php/2016/10/06/microservice/ 
+
+
+## Contact
+
+Amir: https://github.com/amir-61
+Behnam Hajian: https://github.com/bhajian
+Biniam Admikew: https://github.com/b-admike
+Bosco Li: https://github.com/bosco-li
+Candy Ng: https://github.com/0candy
+David Cheung: https://github.com/davidcheung
+Gunjan Pandya: https://github.com/gunjpan
+Ivy Ho: https://github.com/smartmouse
+Janny Hou: https://github.com/jannyHou
+Jisso Lee: 
+Laven S: 
+Loay Gewily: https://github.com/loay
+Peter EL-Koreh: https://github.com/elkorep
+Sakib Hasan: https://github.com/ssh24
+
+
+In loopback we maintain a bunch of core dependency modules, if you are interested or have question in any functional area, please check (functional-area-owners(FA owner) doc)[http://loopback.io/doc/en/contrib/functional-area-owners.html] to contact the FA owner.
