@@ -4,6 +4,10 @@ LoopBack is a highly-extensible, open-source Node.js framework. Building on Loop
 
 Today we will give you an overview of our products(APIC and LoopBack), talk about some major concept, eg. Microservices, to help you understand the products, and also guide you to build and publish an APIC/LoopBack application, which you can play with to see how those created APIs work.
 
+## PPT link
+
+https://goo.gl/3ffPDP
+
 
 ## Tutorials
 
