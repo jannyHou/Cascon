@@ -41,7 +41,7 @@ Link: https://goo.gl/3ffPDP
 
 ## Contact
 
-- Amir: https://github.com/amir-61
+- Amir Jafarian: https://github.com/amir-61
 - Behnam Hajian: https://github.com/bhajian
 - Biniam Admikew: https://github.com/b-admike
 - Bosco Li: https://github.com/bosco-li
