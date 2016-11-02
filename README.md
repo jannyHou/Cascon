@@ -15,13 +15,13 @@ Today we will give you an overview of our products(APIC and LoopBack), talk abou
 
   - Create your own REST API
 
-Tutorial link: https://github.com/gunjpan/CoffeeShopReviewApp 
+  - Tutorial link: https://github.com/gunjpan/CoffeeShopReviewApp 
 
 ### Publish with Bluemix(by Sakib)
 
   - Publish created REST APIs to Bluemix
 
-Tutorial link: https://goo.gl/fvKpP4
+  - Tutorial link: https://goo.gl/fvKpP4
 
 ### Policy Example(by Biniam)
 
@@ -31,7 +31,7 @@ Tutorial link: https://goo.gl/fvKpP4
 
   - Redesign and manage APIs
 
-Tutorial link: http://www.imotif.net/index.php/2016/10/06/microservice/ 
+  - Tutorial link: http://www.imotif.net/index.php/2016/10/06/microservice/ 
 
 
 ## Contact
