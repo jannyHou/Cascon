@@ -36,20 +36,20 @@ Tutorial link: http://www.imotif.net/index.php/2016/10/06/microservice/
 
 ## Contact
 
-Amir: https://github.com/amir-61
-Behnam Hajian: https://github.com/bhajian
-Biniam Admikew: https://github.com/b-admike
-Bosco Li: https://github.com/bosco-li
-Candy Ng: https://github.com/0candy
-David Cheung: https://github.com/davidcheung
-Gunjan Pandya: https://github.com/gunjpan
-Ivy Ho: https://github.com/smartmouse
-Janny Hou: https://github.com/jannyHou
-Jisso Lee: https://github.com/jisoolee
-Laven S: https://github.com/laven26
-Loay Gewily: https://github.com/loay
-Peter EL-Koreh: https://github.com/elkorep
-Sakib Hasan: https://github.com/ssh24
+- Amir: https://github.com/amir-61
+- Behnam Hajian: https://github.com/bhajian
+- Biniam Admikew: https://github.com/b-admike
+- Bosco Li: https://github.com/bosco-li
+- Candy Ng: https://github.com/0candy
+- David Cheung: https://github.com/davidcheung
+- Gunjan Pandya: https://github.com/gunjpan
+- Ivy Ho: https://github.com/smartmouse
+- Janny Hou: https://github.com/jannyHou
+- Jisso Lee: https://github.com/jisoolee
+- Laven S: https://github.com/laven26
+- Loay Gewily: https://github.com/loay
+- Peter EL-Koreh: https://github.com/elkorep
+- Sakib Hasan: https://github.com/ssh24
 
 
 In loopback we maintain a bunch of core dependency modules, if you are interested or have question in any functional area, please check (functional-area-owners(FA owner) doc)[http://loopback.io/doc/en/contrib/functional-area-owners.html] to contact the FA owner.
