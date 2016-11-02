@@ -50,9 +50,11 @@ https://goo.gl/3ffPDP
 - Ivy Ho: https://github.com/smartmouse
 - Janny Hou: https://github.com/jannyHou
 - Jisso Lee: https://github.com/jisoolee
+- Kevin Delisle: https://github.com/kjdelisle
 - Laven S: https://github.com/laven26
 - Loay Gewily: https://github.com/loay
 - Peter EL-Koreh: https://github.com/elkorep
+- Phong Thieu: https://github.com/pthieu
 - Sakib Hasan: https://github.com/ssh24
 
 
