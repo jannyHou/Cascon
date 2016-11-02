@@ -49,7 +49,7 @@ Link: https://goo.gl/3ffPDP
 - Gunjan Pandya: https://github.com/gunjpan
 - Ivy Ho: https://github.com/smartmouse
 - Janny Hou: https://github.com/jannyHou
-- Jisso Lee: https://github.com/jisoolee
+- Jisoo Lee: https://github.com/jisoolee
 - Kevin Delisle: https://github.com/kjdelisle
 - Laven S: https://github.com/laven26
 - Loay Gewily: https://github.com/loay
