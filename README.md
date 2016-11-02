@@ -52,4 +52,4 @@ Today we will give you an overview of our products(APIC and LoopBack), talk abou
 - Sakib Hasan: https://github.com/ssh24
 
 
-In loopback we maintain a bunch of core dependency modules, if you are interested or have question in any functional area, please check (functional-area-owners(FA owner) doc)[http://loopback.io/doc/en/contrib/functional-area-owners.html] to contact the FA owner.
+In loopback we maintain a bunch of core dependency modules, if you are interested or have question in any functional area, please check [functional-area-owners(FA owner) doc](http://loopback.io/doc/en/contrib/functional-area-owners.html) to contact the FA owner.
