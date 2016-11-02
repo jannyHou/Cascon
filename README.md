@@ -45,8 +45,8 @@ David Cheung: https://github.com/davidcheung
 Gunjan Pandya: https://github.com/gunjpan
 Ivy Ho: https://github.com/smartmouse
 Janny Hou: https://github.com/jannyHou
-Jisso Lee: 
-Laven S: 
+Jisso Lee: https://github.com/jisoolee
+Laven S: https://github.com/laven26
 Loay Gewily: https://github.com/loay
 Peter EL-Koreh: https://github.com/elkorep
 Sakib Hasan: https://github.com/ssh24
