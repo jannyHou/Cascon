@@ -29,7 +29,8 @@ Link: https://goo.gl/3ffPDP
 
 #### Policy Example(by Biniam)
 
-  - Apply datapower policies to REST APIs
+  - Apply DataPower policies to REST APIs
+  - Totorial link: https://drive.google.com/file/d/0By4teUFP9ZENejJ2cEN5cDJoTzA/view?usp=sharing
 
 #### Microservices(by Behnam)
 
